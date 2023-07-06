@@ -17,7 +17,3 @@ Collection of all projects developed during the MSc in Data Science at the Unive
 - Project for the exam of "Foundations of Probability and Statistics"
 - [Here](SpotifyTop200/) you can find the report
 
-## RDPb: machine learning approach to flow-based brute-force attacks detection
-- Supervised machine learning model that allows to distinguish legitimate RDP traffic from brute-force attempts analyzing each individual TCP flow in terms of packet and session based features with F1 score of 0.9996
-- Project for the exam of "Machine Learning"
-- [Here](RDPb/ML_Project.pdf) you can find the paper
